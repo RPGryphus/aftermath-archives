@@ -50,40 +50,40 @@
 
 @font-face {
 	font-family: 'DS Behr';
-	src: url('https://dl.dropbox.com/s/gbgb7q0kxtu7q4f/DSBehrensschrift.eot') format('embedded-opentype'),
-		 url('https://dl.dropbox.com/s/rgdpb2ccuasyqre/DSBehrensschrift.woff2') format('woff2'),
-		 url('https://dl.dropbox.com/s/tq5i9zcrlztesdc/DSBehrensschrift.woff') format('woff'),
-		 url('https://dl.dropbox.com/s/z56v05lfgvwwv6q/DSBehrensschrift.ttf') format('truetype');
+	src: url('https://rpgryphus.github.io/aftermath-archives/DSBehrensschrift.eot') format('embedded-opentype'),
+		 url('https://rpgryphus.github.io/aftermath-archives/DSBehrensschrift.woff2') format('woff2'),
+		 url('https://rpgryphus.github.io/aftermath-archives/DSBehrensschrift.woff') format('woff'),
+		 url('https://rpgryphus.github.io/aftermath-archives/DSBehrensschrift.ttf') format('truetype');
 	font-weight: normal;
 	font-style: normal;
 }
 
 @font-face {
   font-family: 'Cyrodiil';
-  src: url('https://dl.dropbox.com/s/0cnfz69n4mc3m2m/Cyrodiil.eot') format('embedded-opentype'),
-       url('https://dl.dropbox.com/s/8w249vc1saeta5n/Cyrodiil.woff2') format('woff2'),
-       url('https://dl.dropbox.com/s/lgyxwjmrbgn13r8/Cyrodiil.woff') format('woff'),
-       url('https://dl.dropbox.com/s/t5al8gsdtq1fpi6/Cyrodiil.ttf') format('truetype');
+  src: url('https://rpgryphus.github.io/aftermath-archives/Cyrodiil.eot') format('embedded-opentype'),
+       url('https://rpgryphus.github.io/aftermath-archives/Cyrodiil.woff2') format('woff2'),
+       url('https://rpgryphus.github.io/aftermath-archives/Cyrodiil.woff') format('woff'),
+       url('https://rpgryphus.github.io/aftermath-archives/Cyrodiil.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Cyrodiil';
-  src: url('https://dl.dropbox.com/s/sd87e2h0i1e3pq5/Cyrodiil-Bold.eot') format('embedded-opentype'),
-       url('https://dl.dropbox.com/s/fujp2gex53xn5zx/Cyrodiil-Bold.woff2') format('woff2'),
-       url('https://dl.dropbox.com/s/z611020nq5v28z7/Cyrodiil-Bold.woff') format('woff'),
-       url('https://dl.dropbox.com/s/6ws5h40dqazuyes/Cyrodiil-Bold.ttf') format('truetype');
+  src: url('https://rpgryphus.github.io/aftermath-archives/Cyrodiil-Bold.eot') format('embedded-opentype'),
+       url('https://rpgryphus.github.io/aftermath-archives/Cyrodiil-Bold.woff2') format('woff2'),
+       url('https://rpgryphus.github.io/aftermath-archives/Cyrodiil-Bold.woff') format('woff'),
+       url('https://rpgryphus.github.io/aftermath-archives/Cyrodiil-Bold.ttf') format('truetype');
   font-weight: bold;
   font-style: normal;
 }
 
 @font-face {
 	font-family: 'Balthasar';
-	src: url('https://dl.dropbox.com/s/upq4ken33ztsa7x/Balthazar.eot') format('embedded-opentype'),
-		 url('https://dl.dropbox.com/s/h7zpagsnbf0tg90/Balthazar.woff2') format('woff2'),
-		 url('https://dl.dropbox.com/s/uxyg9pi7takrb6r/Balthazar.woff') format('woff'),
-		 url('https://dl.dropbox.com/s/4kwe40cmz1987yz/Balthazar.ttf') format('truetype');
+	src: url('https://rpgryphus.github.io/aftermath-archives/Balthazar.eot') format('embedded-opentype'),
+		 url('https://rpgryphus.github.io/aftermath-archives/Balthazar.woff2') format('woff2'),
+		 url('https://rpgryphus.github.io/aftermath-archives/Balthazar.woff') format('woff'),
+		 url('https://rpgryphus.github.io/aftermath-archives/Balthazar.ttf') format('truetype');
 	font-weight: normal;
 	font-style: normal;
 }
