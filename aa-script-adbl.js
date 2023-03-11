@@ -1,5 +1,5 @@
 //	ADBLOCKER
-document.addEventListener('DOMContentLoaded', function() {
+window.onload = function() {
   const userMenuLink = document.querySelector('#main-user-menu a[href^="/u"]');
   if (userMenuLink) {
     const wrap = document.querySelector('#wrap');
@@ -14,4 +14,4 @@ document.addEventListener('DOMContentLoaded', function() {
       ad.parentNode.removeChild(ad);
     });
   }
-});
+};
