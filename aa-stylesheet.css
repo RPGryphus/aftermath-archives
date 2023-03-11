@@ -772,7 +772,7 @@ a.posts-lastpost-time {
 .page-header h1,
 .topic-header h1 {
 	display: block;
-	font-family: 'DS Behr';
+	font-family: 'Gothish';
 	font-size: 38px;
 	font-weight: bold;
 	margin-bottom: 24px;
@@ -1296,7 +1296,7 @@ div.folder_sticky ~ .posts-content > .posts-description > h3 strong:after {
 .post-content h1 {
 	background-color: #000;
 	color: #FFF;
-	font-family: 'DS Behr';
+	font-family: 'Gothish';
 	font-size: 50px;
 	font-weight: normal;
 	margin: 0px -25px 0px -25px;
@@ -1736,7 +1736,7 @@ div.folder_sticky ~ .posts-content > .posts-description > h3 strong:after {
 }
 
 .faq-wrap > h2 {
-	font-family: 'DS Behr', sans-serif;
+	font-family: 'Gothish', sans-serif;
 	font-weight: bold;
 	font-size: 30px;
 	text-align: center;
