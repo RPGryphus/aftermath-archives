@@ -1013,8 +1013,6 @@ div.folder_sticky ~ .posts-content > .posts-description > h3 strong:after {
 	float: left;
 }
 
-@media screen and (max-width: 520px) {.post-edit-count {display: none;}}
-
 .post-edit-count br {
 	display: none;
 }
@@ -1030,6 +1028,8 @@ div.folder_sticky ~ .posts-content > .posts-description > h3 strong:after {
 	content: 'Posted ';
 	font-size: 10px;
 }
+
+@media screen and (max-width: 520px) {.post-edit-count {display: none;} .post-date {width: 100%;}}
 
 /*----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 			AISSISTANTS ASIDE PROFILE
