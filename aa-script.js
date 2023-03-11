@@ -1,7 +1,7 @@
 //	FONT FAMILIES
 $(function() {
     if (!$["sceditor"]) return;
-    $.sceditor.defaultOptions.fonts = 'Balthasar,DS Behr,Grenze Gotisch,Cyrodiil,Cinzel';
+    $.sceditor.defaultOptions.fonts = 'Gothish,Fraktur,Grenze,Insular,Manuscript,Magiscript,Cinzel,Army';
 });
 
 //	COLOR PALETTE
