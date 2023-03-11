@@ -467,7 +467,7 @@ th {
 			GROUP LEGEND
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
 
-#glegend a[href="/g5-aissistants"] {
+/*#glegend a[href="/g5-aissistants"] {
 	display: none;
 }
 
@@ -487,6 +487,47 @@ th {
 
 #glegend b:not(:nth-last-child(2)):not(:last-child)::after {
 	content: ', ';
+}*/
+
+.group-legend {
+	width: 100%;
+	display: block;
+}
+
+#administrators {
+	width: 25%;
+	color: #6F9BD3;
+	font-family: 'Gothish';
+	font-weight: bold;
+	font-size: x-large;
+	display: inline;
+}
+
+#moderators {
+	width: 25%;
+	color: #B85353;
+	font-family: 'Gothish';
+	font-weight: bold;
+	font-size: x-large;
+	display: inline;
+}
+
+#scholars {
+	width: 25%;
+	color: #93D36F;
+	font-family: 'Gothish';
+	font-weight: bold;
+	font-size: x-large;
+	display: inline;
+}
+
+#members {
+	width: 25%;
+	color: #000;
+	font-family: 'Gothish';
+	font-weight: bold;
+	font-size: x-large;
+	display: inline;
 }
 
 /*----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
